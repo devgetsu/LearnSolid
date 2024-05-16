@@ -8,9 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="LSP\" />
     <Folder Include="IS\" />
     <Folder Include="DI\" />
+    <Folder Include="LSP\Correct\" />
   </ItemGroup>
 
 </Project>

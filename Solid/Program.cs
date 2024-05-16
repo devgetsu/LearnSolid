@@ -1,4 +1,6 @@
-﻿namespace Solid
+﻿using Solid.LSP.Fail;
+
+namespace Solid
 {
     internal class Program
     {
