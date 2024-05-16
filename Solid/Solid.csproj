@@ -11,7 +11,7 @@
     <Folder Include="LSP\" />
     <Folder Include="IS\" />
     <Folder Include="DI\" />
-    <Folder Include="OCP\" />
+    <Folder Include="OCP\Correct\" />
   </ItemGroup>
 
 </Project>
