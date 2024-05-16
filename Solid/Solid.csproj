@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="DI\" />
-    <Folder Include="IS\Correct\" />
   </ItemGroup>
 
 </Project>
