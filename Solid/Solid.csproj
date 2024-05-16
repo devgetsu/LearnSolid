@@ -12,8 +12,6 @@
     <Folder Include="IS\" />
     <Folder Include="DI\" />
     <Folder Include="OCP\" />
-    <Folder Include="SRP\Fail\" />
-    <Folder Include="SRP\Correct\" />
   </ItemGroup>
 
 </Project>
