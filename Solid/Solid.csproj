@@ -10,7 +10,6 @@
   <ItemGroup>
     <Folder Include="IS\" />
     <Folder Include="DI\" />
-    <Folder Include="LSP\Correct\" />
   </ItemGroup>
 
 </Project>
